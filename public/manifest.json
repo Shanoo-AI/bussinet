@@ -1,0 +1,22 @@
+{
+  "name": "Bussinet International",
+  "short_name": "Bussinet",
+  "description": "Comprehensive IT solutions including Information Security, Networking, Infrastructure Management, Advisory Services, and Software Development",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#102a43",
+  "icons": [
+    {
+      "src": "/images/logo/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/logo/logo-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

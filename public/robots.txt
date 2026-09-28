@@ -1,0 +1,5 @@
+# Bussinet International - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://bussinet.com.pk/sitemap.xml
