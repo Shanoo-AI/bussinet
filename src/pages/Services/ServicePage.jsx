@@ -55,15 +55,6 @@ export function ServicePage() {
           )}
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <nav className="mb-8" aria-label="Breadcrumb">
-            <ol className="flex items-center gap-2 text-sm text-dark-400">
-              <li><Link to="/" className="hover:text-white transition-colors">Home</Link></li>
-              <li className="text-dark-500" aria-hidden="true">/</li>
-              <li><Link to="/services" className="hover:text-white transition-colors">Services</Link></li>
-              <li className="text-dark-500" aria-hidden="true">/</li>
-              <li className="text-white font-medium" aria-current="page">{service.title}</li>
-            </ol>
-          </nav>
           <AnimatedHeading as="h1" id="service-title" className="page-heading mb-6" delay={0.1}>
             {service.title}
           </AnimatedHeading>

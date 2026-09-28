@@ -108,5 +108,5 @@ export const footerContent = {
     { label: 'Instagram', href: 'https://instagram.com', icon: 'instagram' },
     { label: 'LinkedIn', href: 'https://linkedin.com', icon: 'linkedin' },
   ],
-  copyright: 'Copyright © Bussinet. Design and Developed by Usama Iqbal',
+  copyright: 'Copyright © Bussinet. Design and Developed by Muhammad Soban Bashir & Mirza Muhammad Zaka Mehboob',
 };
